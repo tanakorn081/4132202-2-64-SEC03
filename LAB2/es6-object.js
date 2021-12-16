@@ -32,3 +32,4 @@ console.log(a);
 
 const {name:Rname,age} = person;
 console.log(Rname);
+s
