@@ -2,13 +2,12 @@ importScripts("https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/7.14.1/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzasSyANY0aaHQMH06NmXDFdgdodIJQteUDuwbiKXr0",
-  authDomain: "freelancer-project-458f2.firebaseapp.com",
-  databaseURL: "https://freelancer-project-4538f2.firebaseio.com",
-  projectId: "freelancer-project-458f2",
-  storageBucket: "freelancer-project-4538f2.appspot.com",
-  messagingSenderId: "1053691098913",
-  appId: "1:1053691098913:web:0ba18adba127366f2d1b060"
+  apiKey: "AIzaSyCby5XfpDoYFCCjNndbLL15IeKn_13ahVc",
+  authDomain: "react-sec03-081.firebaseapp.com",
+  projectId: "react-sec03-081",
+  storageBucket: "react-sec03-081.appspot.com",
+  messagingSenderId: "25294210473",
+  appId: "1:25294210473:web:42e8ae440c1e4c962e30b8"
 });
 
 firebase.messaging();
